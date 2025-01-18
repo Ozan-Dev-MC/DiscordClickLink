@@ -1,4 +1,4 @@
-![standard (2)](https://github.com/user-attachments/assets/afca59b0-f247-41d1-a371-e9465ff4a458)
+![standard (3)](https://github.com/user-attachments/assets/270ebf9f-c0e3-439d-8a61-893b268519c4)
 
 # BASIC INFORMATION
 
