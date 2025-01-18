@@ -20,3 +20,6 @@
 ~ As of MokuseiDiscord 1.5.0, Java 17 is required and the plugin will only work on 1.17+ with the target being the latest releases of Minecraft.
 
 ~ MokuseiDiscord has been tested on newest version. It will work for 1.19 (I WOULDNT RECOMMEND GONG LOWER THEN THAT)
+
+
+# THIS PLUGIN IS ONLY USED IN SERVER ~ MOKUSEI.EU
